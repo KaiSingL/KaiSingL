@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KaiSingL
-- 👀 I’m interested in javaScript development.
+- Hi, I’m @KaiSingL
+- I’m interested in javaScript development.
 
 
 <!---
